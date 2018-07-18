@@ -1,12 +1,12 @@
 [
   {
     "id": 145,
-    "name": "Macho Temple",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MaChoTemplejf501.JPG/390px-MaChoTemplejf501.JPG",
+    "name": "Charm at the Steps of the Sacre Coeur/Montmartre",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat1.jpg",
     "price": 164,
     "priceCurrency": "EUR",
-    "lat": 6.62122,
-    "lng": 120.317476
+    "lat": 48.884211,
+    "lng": 2.346890
   },
   {
     "id": 148,
@@ -14,13 +14,13 @@
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
     "price": 200,
     "priceCurrency": "EUR",
-    "lat": 16.853502,
-    "lng": 120.376582
+    "lat": 48.885707,
+    "lng": 2.343543
   },
   {
     "id": 201,
-    "name": "St. Catherine of Alexandria Parish, The Shrine of Our Lady of Namacpacan",
-    "imageUrl": "https://lh6.googleusercontent.com/proxy/K2_Zs5XZ8pKS-JCucJBmSaFil7qLowTrz5ZYOcVXssVFRhZBJ4J0QdPW5_vPOMBlIVNaS7d5AzAhChUU-al9AzKYrwqYkAOIKlbigjYR28tbEAjoK2Pjyr2sw5r7TuyPEH5AYqdHg9xKXKEV7B_21WxzsMqoWQ=w408-h615-k-no",
+    "name": "Super 60m2 in trendy neighborhood!",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
     "price": 150,
     "priceCurrency": "EUR",
     "lat": 48.885312,
