@@ -106,5 +106,14 @@
     "priceCurrency": "PHP",
     "lat": 16.588154,
     "lng": 120.314596
+  },
+  {
+    "id": 500,
+    "name": "Lovely Criste's Crib",
+    "imageUrl": "https://lh4.googleusercontent.com/proxy/jxmWcTMBkSyciuR19uOZlVbqI2sd6-ZoeZ1eCOcsCXFMnURlu3RLbStCKGE8T2nQuh5JCTRK2i8m3dQMrmXrwxKgIDuNS6T_ZSFCQEyePQtwKJDE4jSw3QGycQpIedT53MlbaCqFJKkPF_q_yygkiyuXP2XmpK4=w408-h323-k-no",
+    "price": 9999999,
+    "priceCurrency": "PHP",
+    "lat": 16.822577,
+    "lng": 120.335506
   }
 ]
