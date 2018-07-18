@@ -70,5 +70,41 @@
     "priceCurrency": "PHP",
     "lat": 16.336679,
     "lng": 120.478816
+  },
+  {
+    "id": 230,
+    "name": "The Farm Agoo",
+    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPLYJj9r5tFbwoiXExoZ27PsQMkyih1v5Cukjnx=w408-h305-k-no",
+    "price": 56,
+    "priceCurrency": "PHP",
+    "lat": 16.341487,
+    "lng": 120.361361
+  },
+  {
+    "id": 233,
+    "name": "Botanical Garden",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/03/b7/17/04/la-union-botanical-garden.jpg",
+    "price": 57,
+    "priceCurrency": "PHP",
+    "lat": 16.587340,
+    "lng": 120.365907
+  },
+  {
+    "id": 236,
+    "name": "Balay Anito Falls",
+    "imageUrl": "https://lh6.googleusercontent.com/proxy/Vpr3yWIWtNhWE666fuFSKIVAHJHtGNkcQqq11hS7jjHCdSuQzB-KqjSc7uepV3fZCSe3z_HKE1ssa2JFDiv5LeKVVBwYlmxW5xflT-HYm8MB1Xmmp7LGdoWdHK8E_dMRjqGX1WzOcXbPDRHLiC8UbStpu30J0Po=w408-h271-k-no",
+    "price": 58,
+    "priceCurrency": "PHP",
+    "lat": 16.737924,
+    "lng": 120.454573
+  },
+  {
+    "id": 238,
+    "name": "Pindangang Ruins",
+    "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/11/pindangan-ruins.jpg",
+    "price": 61,
+    "priceCurrency": "PHP",
+    "lat": 16.588154,
+    "lng": 120.314596
   }
 ]
