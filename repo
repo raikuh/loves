@@ -53,4 +53,22 @@
     "lat": 16.614825,
     "lng": 120.280449
   }
+  {
+    "id": 215,
+    "name": "Darigayos Watch Tower",
+    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP0O_dkq9iA5vQJ69sO6Awhdj9gszOzHNRorcDT=w408-h270-k-no",
+    "price": 20,
+    "priceCurrency": "PHP",
+    "lat": 16.818499,
+    "lng": 120.330348
+  },
+  {
+    "id": 220,
+    "name": "PUGAD Adventure",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0a/55/9c/91/photo9jpg.jpg",
+    "price": 50,
+    "priceCurrency": "PHP",
+    "lat": 16.336679,
+    "lng": 120.478816
+  }
 ]
