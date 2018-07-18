@@ -14,13 +14,13 @@
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
     "price": 200,
     "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "lat": 16.853502,
+    "lng": 120.376582
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "name": "St. Catherine of Alexandria Parish, The Shrine of Our Lady of Namacpacan",
+    "imageUrl": "https://lh6.googleusercontent.com/proxy/K2_Zs5XZ8pKS-JCucJBmSaFil7qLowTrz5ZYOcVXssVFRhZBJ4J0QdPW5_vPOMBlIVNaS7d5AzAhChUU-al9AzKYrwqYkAOIKlbigjYR28tbEAjoK2Pjyr2sw5r7TuyPEH5AYqdHg9xKXKEV7B_21WxzsMqoWQ=w408-h615-k-no",
     "price": 150,
     "priceCurrency": "EUR",
     "lat": 48.885312,
