@@ -3,7 +3,7 @@
     "id": 145,
     "name": "Macho Temple",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MaChoTemplejf501.JPG/1200px-MaChoTemplejf501.JPG",
-    "price": 164,
+    "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.621226,
     "lng": 120.317574
@@ -12,7 +12,7 @@
     "id": 148,
     "name": "Occalong Falls",
     "imageUrl": "https://lunalaunion.files.wordpress.com/2012/04/occalongfalls-2.jpg",
-    "price": 200,
+    "price": 20,
     "priceCurrency": "PHP",
     "lat": 16.799512,
     "lng": 120.357467
@@ -21,7 +21,7 @@
     "id": 201,
     "name": "Baluarte Watch Tower",
     "imageUrl": "https://lh3.googleusercontent.com/proxy/aQISzTASbFJptMnbNuGvbgOuGRabmO8hX0kjmmItaE0KxJCIBJOHlRfb2r0xh7zxk2cmB_qGHLuoAsVVgWbvA-9A88kLn9oukX2nFD-yF_el1Z1UnErv0UqQ0cdfmsez97z9fXI2BosW21EFpVQvoPbL6fePFeg=w408-h271-k-no",
-    "price": 150,
+    "price": 20,
     "priceCurrency": "PHP",
     "lat": 16.856817,
     "lng": 120.372850
@@ -30,7 +30,7 @@
     "id": 205,
     "name": "Kamay na Bato",
     "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOvxvN3yuKB-ywrSwVVocLVG-pLfIczvQ2rDYE=w408-h272-k-no",
-    "price": 115,
+    "price": 20,
     "priceCurrency": "PHP",
     "lat": 16.847283,
     "lng":  120.351706
@@ -39,7 +39,7 @@
     "id": 210,
     "name": "USAFFE-NL Military Shrine and Park",
     "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPWmpe1SSEez2hrkQiygxHJXgaflSVZTNmYgUBG=w408-h229-k-no",
-    "price": 135,
+    "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.820883,
     "lng": 120.335579
@@ -48,7 +48,7 @@
     "id": 211,
     "name": "Old Lighthouse",
     "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO5QQ0skqv6-fQ9a5rA6jf2KP7jaHmhiU80w_K8=w408-h306-k-no",
-    "price": 90,
+    "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.614825,
     "lng": 120.280449
@@ -57,7 +57,7 @@
     "id": 215,
     "name": "Watch Tower Darigayos",
     "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP0O_dkq9iA5vQJ69sO6Awhdj9gszOzHNRorcDT=w408-h270-k-no",
-    "price": 20,
+    "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.818499,
     "lng": 120.330348
@@ -66,7 +66,7 @@
     "id": 220,
     "name": "PUGAD Adventure",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0a/55/9c/91/photo9jpg.jpg",
-    "price": 50,
+    "price": 200,
     "priceCurrency": "PHP",
     "lat": 16.336679,
     "lng": 120.478816
@@ -75,7 +75,7 @@
     "id": 230,
     "name": "The Farm Agoo",
     "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPLYJj9r5tFbwoiXExoZ27PsQMkyih1v5Cukjnx=w408-h305-k-no",
-    "price": 56,
+    "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.341487,
     "lng": 120.361361
@@ -84,7 +84,7 @@
     "id": 233,
     "name": "Botanical Garden",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/03/b7/17/04/la-union-botanical-garden.jpg",
-    "price": 57,
+    "price": 20,
     "priceCurrency": "PHP",
     "lat": 16.587340,
     "lng": 120.365907
@@ -93,7 +93,7 @@
     "id": 236,
     "name": "Balay Anito Falls",
     "imageUrl": "https://lh6.googleusercontent.com/proxy/Vpr3yWIWtNhWE666fuFSKIVAHJHtGNkcQqq11hS7jjHCdSuQzB-KqjSc7uepV3fZCSe3z_HKE1ssa2JFDiv5LeKVVBwYlmxW5xflT-HYm8MB1Xmmp7LGdoWdHK8E_dMRjqGX1WzOcXbPDRHLiC8UbStpu30J0Po=w408-h271-k-no",
-    "price": 58,
+    "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.737924,
     "lng": 120.454573
@@ -102,7 +102,7 @@
     "id": 340,
     "name": "Pindangan Ruins",
     "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/11/pindangan-ruins.jpg",
-    "price": 73,
+    "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.588154,
     "lng": 120.314596
